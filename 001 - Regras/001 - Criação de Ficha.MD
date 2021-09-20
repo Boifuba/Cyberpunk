@@ -18,6 +18,14 @@ Cable jack, Interface neural computadores quânticos, tradutores universais assi
 [TL8](https://gurps.fandom.com/wiki/TL8_(The_Digital_Age))
 [TL9](https://gurps.fandom.com/wiki/TL9_(The_Microtech_Age))
 
+## Atributos e habilidades
+
+Antes de escolher seus números de atributos e habilidades dê uma olhada nessa tabela 
+<p align="center"> 
+<img src="https://github.com/Boifuba/Ars-Magica/blob/main/Imagens/220862541_5739428436132426_7953456147129271508_n.png">
+</p>
+
+Como exceção das habilidades ranged que as vezes requerem um pouco mais sde flexibilidade não há razão para escalonar os números, lembrem-se: Quanto maior o seu NH maior será o NH dos inimigos.
 
 ## Recursos
 O valor inical total é de 30 mil criptos, não existe dinheiro de papel. As moedas que existem são simplesmente carteiras como se fossem títulos ao portador. O pagamento médio mensal de uma pessoa é de 3600 créditos. 
