@@ -24,3 +24,33 @@ O valor inical total é de 30 mil criptos, não existe dinheiro de papel. As moe
 
 ## Identificação
 Qualquer cidadão pode ser o quê considerado zerado. Todo cidadão tem um chip na área do corpo de sua escolha que funciona como seus documentos e carteira para pagamentos. Os quê escolhem não ter por motivos religiosos podem ser retidos pela polícia a qualquer momento e tendem sempre a serem vistos como suspeitos uma vez que os runners preferem não usar essa técnologia para não serem identificados em um bioscans em massa. 
+
+## Raças
+
+O cenário de Shadowrun é conhecido por ter diversas raças do mundo da fantasia conhecida por nós. Está liberado ao acesso de qualquer raça básica no cenário. A raça deve ser algo aceitável em convivência com os outros. Majoritariamente os humanos são a raça predominante. Qualquer template de raça nos livros podem ser usadas, converse comigo pois algumas delas requerem algumas mudanças, como dos anões por exemplo que tem faro para ouro. 
+
+# Permitidos e não permitidos
+**Por mais que a temática seja de fantasia, se você for um imbecil, é preciso te lembrar que a temática é cyberpunk/shadowrun e não supers. Por isso eu me dou ao total direito de vetar qualquer coisa que esteja fora do que eu acredite ser o escopo da campanha. Aceite ou caia fora.**
+
+## Está proibido
+
+* Qualquer vantagem que aumente o TL
+* Qualquer vantagem que dê acesso a itens que não foram pagos por meios normais, salvo se esse item for algo da lore do jogador.
+* Aliados que só estào ali para complementar fraquezas ou combar com o jogador. 
+
+# Bom senso
+
+Como a gente sabe muito bem o ultra Tech é um livro complicado e desbalanceado, então pense duas vezes antes de colocar 52 de AC no seu personagem, lembre-se que o desafio ~~dano dirigido à você~~ será adequado!
+
+# Extras
+
+## Sistema de Trupe
+Eu vou usar sistema de trupe. Qualquer jogador pode ter quantos aliados quiser desde que esse não passe metade dos pontos iniciais e não sejam um poder extra do personagem salvo algumas excessões como um drone para um rigger. 
+Os aliados podem ser máquinas, pessoas, animais etc. Todos devem serbem tratados e devem ter um bom motivo para estar se relacionando com o seu patrono. 
+Qualquer jogador pode pegar um NPC para ser o seu aliado desde que o NPC assim o queira. No momento que o jogador pega o aliado ele imediatamente paga os pontos na ficha e pede ao mestre a ficha do aliado. Existem também os aliados menores que são NPC sem muita importância e tem funções padrão dentro do jogo: segurança, garçom, médico, um olheiro etc. 
+
+É possível enviar seus aliados para cumprirem missões.
+
+## Experiência
+
+Seus dias de molezinha acabaram, agora eu trancarei todas as fichas e quem quiser aumentar uma skill vai ter que aprender. [**NÃO EXISTE MAIS GANHO DE XP**](https://www.youtube.com/watch?v=6eutegAcOAY) Caso o jogador decida dedicar todo o tempo dele para aprender algo novo, ele vai precisar de um professor, um programa ou de treino por tentativa e erro. Enquanto isso ele pode escolher um dos seus aliados para jogar enquanto seu personagem principal fica aprendendo. 
