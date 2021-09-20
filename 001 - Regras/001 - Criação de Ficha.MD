@@ -28,7 +28,10 @@ Antes de escolher seus números de atributos e habilidades dê uma olhada nessa 
 Como exceção das habilidades ranged que as vezes requerem um pouco mais sde flexibilidade não há razão para escalonar os números, lembrem-se: Quanto maior o seu NH maior será o NH dos inimigos.
 
 ## Recursos
-O valor inical total é de 30 mil criptos, não existe dinheiro de papel. As moedas que existem são simplesmente carteiras como se fossem títulos ao portador. O pagamento médio mensal de uma pessoa é de 3600 créditos. 
+O valor inical total é de 30 mil criptos, não existe dinheiro de papel. As moedas que existem são simplesmente carteiras como se fossem títulos ao portador. O pagamento médio mensal de uma pessoa é de 3600 créditos. Todos os jogadores terão algum lugar para ficar ou exercer suas atividade de acordo com o seu status social.
+
+## Status
+Somente pessoas de algum status social podem entrar em determinados lugares. Esses lugares possuem bioscams de alta tecnologia para identificar quem tem condições de estar ali ou não. Podem ser lojas, prédios ou bairros inteiros.
 
 ## Identificação
 Qualquer cidadão pode ser o quê considerado zerado. Todo cidadão tem um chip na área do corpo de sua escolha que funciona como seus documentos e carteira para pagamentos. Os quê escolhem não ter por motivos religiosos podem ser retidos pela polícia a qualquer momento e tendem sempre a serem vistos como suspeitos uma vez que os runners preferem não usar essa técnologia para não serem identificados em um bioscans em massa. 
@@ -62,3 +65,8 @@ Qualquer jogador pode pegar um NPC para ser o seu aliado desde que o NPC assim o
 ## Experiência
 
 Seus dias de molezinha acabaram, agora eu trancarei todas as fichas e quem quiser aumentar uma skill vai ter que aprender. [**NÃO EXISTE MAIS GANHO DE XP**](https://www.youtube.com/watch?v=6eutegAcOAY) Caso o jogador decida dedicar todo o tempo dele para aprender algo novo, ele vai precisar de um professor, um programa ou de treino por tentativa e erro. Enquanto isso ele pode escolher um dos seus aliados para jogar enquanto seu personagem principal fica aprendendo. 
+
+## Sistema de magia
+
+Vamos usar a adaptação do sistema de magia do Ars Magica para GURPS. Somente o mago ou o shaman do grupo terá acesso a ele. O restante que tiver algo de magia irá usar o sistema padrão. 
+Resumidamente um mago precisa fazer parte de uma Casa e atender às regras Herméticas. Além das leis mundanas as regras do grupo mágico ditam pesadamente seus passos e ações e podem clamar inclusive por sua morte através de uma caçada hermética. 
