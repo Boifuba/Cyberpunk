@@ -1,22 +1,23 @@
-![image](https://user-images.githubusercontent.com/21176804/134152806-b257b196-53c4-4edf-abf3-d4d5aea27160.png)
+| <h2> Rank </h2> | <h2> Logotipo </h2> | <h2> Descrição das atividades </h2> |
+| :---: | :----: | :------ |
+| 1 | ![image](https://user-images.githubusercontent.com/21176804/134152937-00bfb6f1-2836-48fe-ae20-716c43c6ca61.png) |<h2> SAEDER-KRUPP HEAVY INDUSTRIES </h2><br/> Corporate Court Ranking (2075): #1  <br/>  Corporate Slogan: “One Step Ahead”  Corporate Status: AAA, private corporation <br/> World Headquarters: Essen, Allied German States  <br/> President/CEO: Lofwyr |
+| 2 |![image](https://user-images.githubusercontent.com/21176804/134154016-83cd0c1e-af47-41ca-bb62-41572f50aa11.png) | <h2> NEONET </h2><br/> Corporate Court Ranking (2075): #2 <br/> Corporate Slogan: “Tomorrow Runs on NeoNET”  <br/> Corporate Status: AAA, public corporation <br/> World Headquarters:  Boston, UCAS CEO: Richard Villiers |
 
 
-## SAEDER-KRUPP HEAVY INDUSTRIES
-Corporate Court Ranking (2075): #1
-Corporate Slogan: “One Step Ahead”
-Corporate Status: AAA, private corporation
-World Headquarters:
-Essen, Allied German States
-President/CEO: Lofwyr
 
-![image](https://user-images.githubusercontent.com/21176804/134154016-83cd0c1e-af47-41ca-bb62-41572f50aa11.png)
 
-## NEONET
-Corporate Court Ranking (2075): #2
-Corporate Slogan: “Tomorrow Runs on NeoNET”
-Corporate Status: AAA, public corporation
-World Headquarters: Boston, UCAS
-CEO: Richard Villiers
+
+
+
+| 3 | ![image](https://user-images.githubusercontent.com/21176804/134152937-00bfb6f1-2836-48fe-ae20-716c43c6ca61.png) | <h2> MITSUHAMA COMPUTER TECHNOLOGIES  </h2><br/>  Corporate Court Ranking (2075): #3 <br/> Corporate Slogan:  “The Future is Mitsuhama”<br/>  Corporate Status: AAA, public corporation World Headquarters: Kyoto, Japanese Imperial State <br/> President/CEO: Toshiro Mitsuhama
+
+
+|  Rank | Imagem | Lore |
+| ----------------- | --------------- | ------------|
+
+
+|
+
 
 ![image](https://user-images.githubusercontent.com/21176804/134152937-00bfb6f1-2836-48fe-ae20-716c43c6ca61.png)
 
