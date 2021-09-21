@@ -71,3 +71,9 @@ Seus dias de molezinha acabaram, agora eu trancarei todas as fichas e quem quise
 
 Vamos usar a adaptação do sistema de magia do Ars Magica para GURPS. Somente o mago ou o shaman do grupo terá acesso a ele. O restante que tiver algo de magia irá usar o sistema padrão. 
 Resumidamente um mago precisa fazer parte de uma Casa e atender às regras Herméticas. Além das leis mundanas as regras do grupo mágico ditam pesadamente seus passos e ações e podem clamar inclusive por sua morte através de uma caçada hermética. 
+
+## Mercado
+
+Em geral todo mercado é feito pelo preço estabelecido no livro salvo quando o nível tecnológico não é comum e envolve risco na transação, quando o equipamento possui malf (-10% para cada 1 de malf). Esses itens com Malf só podem ser consertados com as habilidades e ferramentas corretas e pago o preço da diferença. 
+
+Criptos online são rastreados enquanto em moedas físicas ou carteiras não.
