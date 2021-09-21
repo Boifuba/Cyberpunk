@@ -48,6 +48,7 @@ O cenário de Shadowrun é conhecido por ter diversas raças do mundo da fantasi
 * Qualquer vantagem que aumente o TL
 * Qualquer vantagem que dê acesso a itens que não foram pagos por meios normais, salvo se esse item for algo da lore do jogador.
 * Aliados que só estào ali para complementar fraquezas ou combar com o jogador. 
+* Sorte 
 
 # Bom senso
 
