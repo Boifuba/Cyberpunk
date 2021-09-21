@@ -34,11 +34,15 @@ O valor inical total é de 30 mil criptos, não existe dinheiro de papel. As moe
 Somente pessoas de algum status social podem entrar em determinados lugares. Esses lugares possuem bioscams de alta tecnologia para identificar quem tem condições de estar ali ou não. Podem ser lojas, prédios ou bairros inteiros.
 
 ## Identificação
-Qualquer cidadão pode ser o quê considerado zerado. Todo cidadão tem um chip na área do corpo de sua escolha que funciona como seus documentos e carteira para pagamentos. Os quê escolhem não ter por motivos religiosos podem ser retidos pela polícia a qualquer momento e tendem sempre a serem vistos como suspeitos uma vez que os runners preferem não usar essa técnologia para não serem identificados em um bioscans em massa. 
+Todo cidadão tem um chip na área do corpo de sua escolha que funciona como seus documentos e carteira para pagamentos. Os quê escolhem não ter por motivos religiosos podem ser retidos pela polícia para ter seu SIN identificado de forma biométrica a qualquer momento e tendem sempre a serem vistos como suspeitos uma vez que os runners preferem não usar essa técnologia para não serem identificados em  bioscans em massa. 
 
 ## Raças
 
 O cenário de Shadowrun é conhecido por ter diversas raças do mundo da fantasia conhecida por nós. Está liberado ao acesso de qualquer raça básica no cenário. A raça deve ser algo aceitável em convivência com os outros. Majoritariamente os humanos são a raça predominante. Qualquer template de raça nos livros podem ser usadas, converse comigo pois algumas delas requerem algumas mudanças, como dos anões por exemplo que tem faro para ouro. 
+
+# Sinners ou Sinless (Zerado)
+Uma importante escolha ao criar o personagem ~e determinar se ele tem um SIN (System Identification Number) ou não. Você precisa de um SIN para ser aceito em qualquer sistema de segurança ou se autenticar em qualquer computador ou mesmo fazer coisas mais simples como compras de supermercado ou atividades bancárias.
+O SIN não pode ser apagado ou retirado do corpo - você nasce sem! Seus pais não tinham um e não registraram você, você é um criminoso e seus pais eram em algum nível também. Se você for pego sem um SIN, será preso e receberá um SIN de criminoso.
 
 # Permitidos e não permitidos
 **Por mais que a temática seja de fantasia, se você for um imbecil, é preciso te lembrar que a temática é cyberpunk/shadowrun e não supers. Por isso eu me dou ao total direito de vetar qualquer coisa que esteja fora do que eu acredite ser o escopo da campanha. Aceite ou caia fora.**
