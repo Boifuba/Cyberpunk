@@ -17,9 +17,9 @@ def convert(list, num):
         elif re.match(r'^6(?!\d)',i["tech_level"]):
             i["value"] = str(float(i["value"])*1)
         elif re.match(r'^7(?!\d)',i["tech_level"]):
-            i["value"] = str(float(i["value"])*2)
+            i["value"] = str(float(i["value"])*1)
         elif re.match(r'^8(?!\d)',i["tech_level"]):
-            i["value"] = str(float(i["value"])*3)
+            i["value"] = str(float(i["value"])*1)
         elif re.match(r'^9(?!\d)',i["tech_level"]):
             i["value"] = str(float(i["value"])*10)
         elif re.match(r'^10(?!\d)',i["tech_level"]):
