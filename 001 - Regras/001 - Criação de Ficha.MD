@@ -1,4 +1,4 @@
-# Criação de Ficha
+# Regras gerais
 
 ## Livros Permitidos
 - Basic Set
