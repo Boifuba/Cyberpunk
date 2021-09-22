@@ -6,7 +6,7 @@
 - Mage
 - Ultra Tech
 - High Tech
-- Powers
+
 
 ## Nível Tecnológico 
 
